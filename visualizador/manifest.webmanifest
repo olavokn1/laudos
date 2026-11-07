@@ -1,0 +1,33 @@
+{
+ "name": "Visor de Exames",
+ "short_name": "Visor",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#000000",
+ "theme_color": "#000000",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "../icons/visor-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "../icons/visor-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "../icons/visor-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "../icons/visor.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
