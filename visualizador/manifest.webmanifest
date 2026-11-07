@@ -1,6 +1,6 @@
 {
- "name": "Visor de Exames",
- "short_name": "Visor",
+ "name": "Visualizador de Exames",
+ "short_name": "Visualizador",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
